@@ -1,4 +1,4 @@
-# Laboratorio Golinelli — MVP
+# Laboratorio — MVP
 
 Sitio estático responsive preparado para GitHub Pages.
 

@@ -11,7 +11,7 @@ const indicationEntries = [
   {
     title: 'Perfil lipídico y hepatograma',
     sections: [
-      ['Preparación', 'La web de Golinelli indica 12 horas de ayuno para estudios con triglicéridos, colesterol, hepatograma, lípidos totales o lipidograma. Durante el ayuno, solo agua; no mascar chicle ni fumar.'],
+      ['Preparación', 'La información publicada en la web actual indica 12 horas de ayuno para estudios con triglicéridos, colesterol, hepatograma, lípidos totales o lipidograma. Durante el ayuno, solo agua; no mascar chicle ni fumar.'],
       ['Medicación', 'Si tomás medicación habitualmente, consultá a tu médico.'],
       ['Nota', 'Al pedir turno, confirmá que esta preparación corresponda a tu orden.']
     ]
@@ -75,7 +75,7 @@ const indicationEntries = [
   {
     title: 'Exudado faríngeo',
     sections: [
-      ['Preparación', 'La web de Golinelli indica concurrir en ayunas o sin ingerir líquidos ni sólidos desde 3 horas antes. También indica no recibir tratamiento antibiótico desde las 72 horas previas, salvo indicación médica.'],
+      ['Preparación', 'La información publicada en la web actual indica concurrir en ayunas o sin ingerir líquidos ni sólidos desde 3 horas antes. También indica no recibir tratamiento antibiótico desde las 72 horas previas, salvo indicación médica.'],
       ['Tratamiento reciente', 'Si recibiste antibióticos recientemente, llevá el nombre del medicamento y la fecha en que lo terminaste.'],
       ['Nota', 'Al pedir turno, confirmá que esta preparación corresponda a tu orden.']
     ]

@@ -33,7 +33,7 @@ checkinForm?.addEventListener('submit', (event) => {
   const selectedDate = new Date(`${formData.get('date')}T00:00:00`);
   const date = new Intl.DateTimeFormat('es-AR', {day: 'numeric', month: 'long', year: 'numeric'}).format(selectedDate);
   const message = [
-    'Hola, quiero organizar una visita al Laboratorio Golinelli.',
+    'Hola, quiero organizar una visita al laboratorio.',
     `Sede de preferencia: ${branch}.`,
     `Día de preferencia: ${date}.`,
     '¿Puedo enviarles aquí la foto de mi orden para consultar preparación, cobertura y presupuesto?'
